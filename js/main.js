@@ -97,7 +97,7 @@ let resumeButton = document.getElementById('resume-button')
 
 let opt = {
     margin: 1,
-    filename: 'Kate.He-Resume.pdf',
+    filename: 'Michael.Moore-Resume.pdf',
     image: { type: 'jpeg', quality: 0.98 },
     html2canvas: { scale: 4 },
     jsPDF: { format: 'A4', orientation: 'portrait' }
